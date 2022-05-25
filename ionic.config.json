@@ -1,0 +1,8 @@
+{
+  "name": "textareatest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "af6d840e"
+}
