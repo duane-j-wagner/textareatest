@@ -1,0 +1,9 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "textareatest",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://192.168.2.134:8100"
+	}
+}
